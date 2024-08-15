@@ -398,7 +398,7 @@ overflow: hidden;
 
 .design::before{
 
-    content:"ss";
+    content:"";
     position:absolute;
     top:0;
     left:0;
